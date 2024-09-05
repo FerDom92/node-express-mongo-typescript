@@ -3,6 +3,29 @@
 This is a basic project built with Node.js, Express, MongoDB, and TypeScript to practice working with various front-end technologies.
 
 ---
+Online API: [https://node-express-mongo-typescript.onrender.com](https://node-express-mongo-typescript.onrender.com)
+
+***Main Routes***
+
+**Auth**
+[POST] /auth/register
+[POST] /auth/login
+
+**Product (without authentication)**
+[GET]     /api/v1/product
+[GET]     /api/v1/product/:id
+[POST]    /api/v1/product
+[PUT]     /api/v1/product/:id
+[DELETE]  /api/v1/product/:id
+
+**Product (with authentication)**
+[GET]     /api/v2/product
+[GET]     /api/v2/product/:id
+[POST]    /api/v2/product
+[PUT]     /api/v2/product/:id
+[DELETE]  /api/v2/product/:id
+
+---
 
 **Running the Project**
 
