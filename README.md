@@ -4,6 +4,7 @@ This is a basic project built with Node.js, Express, MongoDB, and TypeScript to 
 
 ---
 Online API: [https://node-express-mongo-typescript.onrender.com](https://node-express-mongo-typescript.onrender.com)
+*The first time will take approximately 20 seconds because the server is in sleep mode.*
 
 ***Main Routes***
 
