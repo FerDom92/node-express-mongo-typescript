@@ -3,7 +3,8 @@
 This is a basic project built with Node.js, Express, MongoDB, and TypeScript to practice working with various front-end technologies.
 
 ---
-Online API: [https://node-express-mongo-typescript.onrender.com](https://node-express-mongo-typescript.onrender.com)
+Online API: [https://node-express-mongo-typescript.onrender.com](https://node-express-mongo-typescript.onrender.com){:target="_blank"}
+
 *The first time will take approximately 20 seconds because the server is in sleep mode.*
 
 ***Main Routes***
